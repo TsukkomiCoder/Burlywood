@@ -1,0 +1,146 @@
+body {
+    /*background-color: #856e51;*/
+    background-image: url(https://kaprizhardwoodfloors.com/wp-content/uploads/2020/10/Burlywood-Silver-Oak-Collection-600x383.jpg)
+}
+
+main, footer {
+    background-color: burlywood;
+    max-width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 30px;
+}
+
+h1, h2, h3, h4, p {
+    font-family: "Comic Sans MS", sans-serif;
+    text-align: center;
+    color: #2c251b;
+}
+
+p {
+    font-size: 20px;
+}
+
+div {
+    margin-left: auto;
+    margin-right: auto;
+    padding-bottom: 25px;
+}
+
+.menu {
+    float: left;
+}
+
+.story {
+    float: right;   
+}
+
+.buttons {
+    max-width: 15%;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+button {
+    background-color: #efdcc3;
+    height: 20px;
+    display: block;
+    border-color: #efdcc3;
+    width: 45%;
+    height: 40px;
+    
+}
+
+section {
+    max-width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+}
+
+hr {
+    background-color: #9b815f;
+    border-color: #9b815f;
+    height: 3px;
+}
+
+.frederick {
+    max-width: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.the-home-buttons {
+    color: #594a36;
+    font-size: 15px;
+}
+
+.return-home-buttons {
+    color: #594a36;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.return-home-link {
+    color: #594a36;
+    width: 30%;
+    font-size: 15px;
+    text-align: center;
+}
+
+.menu-return-home {
+    margin-top: 20px;
+    padding-top: 20px;
+}
+
+a {
+    text-decoration: none;
+}
+
+.yum {
+    text-align: left;
+    margin-left: 30px;
+}
+
+.price {
+    text-align: right;
+    margin-right: 30px;
+}
+
+.yum, .price{
+    width: 45%;
+    display: inline-block;
+}
+
+.menu-divider {
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.food {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 25%;
+}
+
+.review {
+    width: 10%;
+}
+
+.visit-us {
+    max-width: 60%;
+}
+
+.est {
+    font-size: 15px;
+}
+
+.fish {
+    display: block;
+    max-width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
