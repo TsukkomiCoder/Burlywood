@@ -108,15 +108,16 @@ a {
 .yum {
     text-align: left;
     margin-left: 30px;
+    width: 55%;
 }
 
 .price {
     text-align: right;
     margin-right: 30px;
+    width: 25%
 }
 
 .yum, .price{
-    width: 45%;
     display: inline-block;
 }
 
@@ -164,4 +165,11 @@ a {
     .yum {
         width: 55%;
     }
+
+}
+
+.proposal {
+    display: block;
+    margin: auto;
+    width: 50%;
 }
