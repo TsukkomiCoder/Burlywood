@@ -152,6 +152,12 @@ a {
     margin-right: auto;
 }
 
+.proposal {
+    display: block;
+    margin: auto;
+    width: 50%;
+}
+
 @media screen and (max-width: 800px) {
     main {
         width: 90%;
@@ -165,11 +171,8 @@ a {
     .yum {
         width: 55%;
     }
+    .proposal {
+        width: 80%;
+    }
 
-}
-
-.proposal {
-    display: block;
-    margin: auto;
-    width: 50%;
 }
